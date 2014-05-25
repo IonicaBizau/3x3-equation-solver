@@ -1,0 +1,24 @@
+{
+  "name": "22",
+  "version": "0.0.0",
+  "description": "A 3 unknown equation solver.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IonicaBizau/3x3-equation-solver.git"
+  },
+  "keywords": [
+    "equation",
+    "solver",
+    "node"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/3x3-equation-solver/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/3x3-equation-solver"
+}
