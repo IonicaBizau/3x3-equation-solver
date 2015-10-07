@@ -1,24 +1,27 @@
 {
   "name": "3x3-equation-solver",
-  "version": "0.0.0",
-  "description": "A 3 unknown equation solver.",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Solves systems of 3 equations with three unknowns.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
   "scripts": {
-    "test": "node index"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/IonicaBizau/3x3-equation-solver.git"
+    "url": "git+https://github.com/IonicaBizau/3x3-equation-solver.git"
   },
   "keywords": [
+    "system",
     "equation",
-    "solver",
-    "node"
+    "math"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "GPL v3",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/3x3-equation-solver/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/3x3-equation-solver"
+  "homepage": "https://github.com/IonicaBizau/3x3-equation-solver#readme"
 }
