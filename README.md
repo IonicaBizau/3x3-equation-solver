@@ -68,7 +68,9 @@ Solves the system of equations.
  - `result` (Array): An array of three values containing the unknown values.
  - `coefficients` (Array): An array of arrays containing the coefficients.
  - `results` (Array): The equation results.
- - `d` (Number): The determinant value.
+ - `determinant` (Number): The determinant value.
+ - `determinants` (Array): The unknown determinants.
+ - `solved` (Boolean): If `true`, that means the system has a solution, otherwise.
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
