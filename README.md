@@ -1,14 +1,18 @@
+
 # 3x3-equation-solver [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/3x3-equation-solver.svg)](https://www.npmjs.com/package/3x3-equation-solver) [![Downloads](https://img.shields.io/npm/dt/3x3-equation-solver.svg)](https://www.npmjs.com/package/3x3-equation-solver) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Solves systems of 3 equations with three unknowns.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save 3x3-equation-solver
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -31,7 +35,8 @@ console.log(Solver([
 //   solved: true }
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `Solver(input, raw)`
 Solves the system of equations.
@@ -56,13 +61,13 @@ Solves the system of equations.
  - `determinants` (Array): The unknown determinants.
  - `solved` (Boolean): If `true`, that means the system has a solution, otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
