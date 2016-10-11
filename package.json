@@ -1,6 +1,6 @@
 {
   "name": "3x3-equation-solver",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "Solves systems of 3 equations with three unknowns.",
   "main": "lib/index.js",
   "directories": {
@@ -28,6 +28,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
