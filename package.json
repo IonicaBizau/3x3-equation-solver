@@ -1,6 +1,6 @@
 {
   "name": "3x3-equation-solver",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "Solves systems of 3 equations with three unknowns.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "equation",
     "math"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/3x3-equation-solver/issues"
@@ -28,12 +28,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
