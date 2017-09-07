@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Solves the system of equations.
 
 #### Params
+
 - **Array** `input`: An array of arrays containing the coeficients and the results. Example:
    ```js
    [
