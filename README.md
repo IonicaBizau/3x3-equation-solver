@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save 3x3-equation-solver
+# Using npm
+npm install --save 3x3-equation-solver
+
+# Using yarn
+yarn add 3x3-equation-solver
 ```
 
 
