@@ -90,6 +90,8 @@ const solutions = Solver(equations, true);
 console.log(solutions);
 
 /* 
+Example: 
+
 {
   result: [2.442231075697211, 1.7569721115537849, 0.8167330677290837],
   results: [5, 19, 6],
